@@ -12,7 +12,7 @@ I'm Lexsa, a recent full-stack software engineering grad with a passion for web 
 
 - 🤝 I’m looking **new job opportunities that help me grow**.
 
-- ⚡ Fun fact: I usually have my greyhound, Mia, at my feet most of the work day. She sometimes makes the occasional appearance on work calls too. 
+- ⚡ Fun fact: I usually have my greyhound, Mia, asleep at my feet most of the work day. She makes the occasional appearance on work calls if bribed with treats. 
 
 - 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
