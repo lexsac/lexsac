@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋 
 
-<!--
-**lexsac/lexsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lexsa, a recent full-stack software engineering grad with a passion for web programming. After seven years spent in performance marketing, I was ready for a new challenge and decided to pursue my years-long dream of learning how to code. My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 🔭 I’m currently **looking for entry-level software engineering roles, preferably front-end**.
+
+- 🌱 Recently, I've been learning **React, Node.js, and Express**. I love working through [**Frontend Mentor**](https://www.frontendmentor.io) challenges since they help me learn so much and grow as an engineer. Take a look at my projects [**here**](https://www.frontendmentor.io/profile/lexsac)!
+
+- 🤝 I’m looking **new job opportunities that help me grow**.
+
+- ⚡ Fun fact: I usually have my greyhound, Mia, at my feet most of the work day. She sometimes makes the occasional appearance on work calls too. 
+
+- 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
+
