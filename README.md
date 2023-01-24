@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Lexsa, a recent full-stack software engineering grad with a passion for building beautiful, functional products. After seven years spent in performance marketing, I was ready for a new challenge and decided to pursue my years-long dream of learning how to code. My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
+I'm Lexsa, a recent full-stack software engineering grad with a passion for building beautiful, functional products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did. I absolutely love learning new technologies and pushing myself to become a better engineer each and every day. My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
 
 ##
 
@@ -12,7 +12,9 @@ I'm Lexsa, a recent full-stack software engineering grad with a passion for buil
 
 - 🤝 I’m looking **new job opportunities that help me grow**.
 
-- ⚡ Fun fact: I usually have my greyhound, Mia, asleep at my feet most of the work day. She makes the occasional appearance on work calls if bribed with treats. 
+- 🏄‍ Before coding, I spent seven years managing 8-figure annual performance marketing budgets for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
+
+- ⚡ Fun fact: A few years ago I fulfilled my lifelong dream of adopting a dog. Her name is Mia, she is a greyhound, she sleeps 22 hours a day, and she is just the best. 
 
 - 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
