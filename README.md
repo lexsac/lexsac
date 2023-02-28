@@ -8,13 +8,11 @@ I'm Lexsa, a recent full-stack software engineering grad with a passion for buil
 
 - 🔭 I’m currently **looking for entry-level software engineering roles, preferably front-end**.
 
-- 🌱 Recently, I've been learning **React, Node.js, and Express**. I love working through [**Frontend Mentor**](https://www.frontendmentor.io) challenges since they help me learn so much and grow as an engineer. Take a look at my projects [**here**](https://www.frontendmentor.io/profile/lexsac)!
+- 🌱 Recently, I've been learning **React**. I love working through [**Frontend Mentor**](https://www.frontendmentor.io) challenges since they help me learn so much and grow as an engineer. Take a look at my projects [**here**](https://www.frontendmentor.io/profile/lexsac)!
 
-- 🤝 I’m looking **new job opportunities that help me grow**.
+- 🤝 I’m looking for **new job opportunities that help me grow**.
 
-- 🏄‍ Before coding, I spent seven years managing 8-figure annual performance marketing budgets for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
-
-- ⚡ Fun fact: A few years ago I fulfilled my lifelong dream of adopting a dog. Her name is Mia, she is a greyhound, she sleeps 22 hours a day, and she is just the best. 
+- 🏄‍ Before coding, I spent seven years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
 
 - 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
