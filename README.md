@@ -10,7 +10,7 @@ My goal is to build cool things, work with great people, and learn as much as I 
 
 - 🔭 I’m currently **looking for entry-level software engineering roles, preferably front-end**.
 
-- 🌱 Recently, I've been learning **React**. I love working through [**Frontend Mentor**](https://www.frontendmentor.io) challenges since they help me learn so much and grow as an engineer. Take a look at my projects [**here**](https://www.frontendmentor.io/profile/lexsac)!
+- 🌱 Recently, I've been learning **React**, and I am really excited to dive into Material UI next.
 
 - 🤝 I’m looking for **new job opportunities that help me grow**.
 
