@@ -61,6 +61,6 @@ I'm Lexsa, a recent full-stack software engineering grad with a passion for buil
 <h2>Find me at</h2>
   
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lexsacampbell@gmail.com)](mailto:lexsacampbell@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/lexsac)&nbsp;
 [![Linkedin: Lexsa Campbell](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexsa-campbell)](https://www.linkedin.com/in/lexsa-campbell)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/lexsac)&nbsp;
 
