@@ -1,6 +1,8 @@
 # Hi there 👋 
 
-I'm Lexsa, a recent full-stack software engineering grad with a passion for building beautiful, functional products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did. I absolutely love learning new technologies and pushing myself to become a better engineer each and every day. My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
+I'm Lexsa, a recent full-stack software engineering grad with a passion for building beautiful, functional products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did. I absolutely love learning new technologies and pushing myself to become a better engineer each and every day. 
+
+My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
 
 ##
 
