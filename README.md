@@ -14,7 +14,7 @@ My goal is to build cool things, work with great people, and learn as much as I 
 
 - 🤝 I’m looking for **new job opportunities that help me grow as an engineer**.
 
-- 🏄‍ Before coding, I spent six years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
+- 🏄‍ Before engineering, I spent six years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
 
 - 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
