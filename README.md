@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Lexsa, a recent full-stack software engineering grad with a passion for building beautiful, functional products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did. I absolutely love learning new technologies and pushing myself to become a better engineer each and every day. 
+I'm Lexsa, a front-end software engineer with a passion for building beautiful, functional digital products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did. I absolutely love learning new technologies and pushing myself to become a better engineer each and every day. 
 
 My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
 
@@ -10,11 +10,11 @@ My goal is to build cool things, work with great people, and learn as much as I 
 
 - 🔭 I’m currently **looking for entry-level software engineering roles, preferably front-end**.
 
-- 🌱 Recently, I've been learning **React**, and I am really excited to dive into Material UI next.
+- 🌱 Recently, I've been working with **React**, and I am really excited to dive into Material UI next.
 
-- 🤝 I’m looking for **new job opportunities that help me grow**.
+- 🤝 I’m looking for **new job opportunities that help me grow as an engineer**.
 
-- 🏄‍ Before coding, I spent seven years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
+- 🏄‍ Before coding, I spent six years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
 
 - 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
@@ -31,7 +31,6 @@ My goal is to build cool things, work with great people, and learn as much as I 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
 
 <details open>
 <summary><b>🧰 Backend</b></summary>
