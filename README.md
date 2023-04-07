@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Lexsa, a front-end software engineer with a passion for building beautiful, functional digital products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did.
+I'm Lexsa, a full stack software engineer with a passion for building beautiful, functional digital products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did.
 
 My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
 
@@ -8,7 +8,7 @@ My goal is to build cool things, work with great people, and learn as much as I 
 
 <br>
 
-- 🔭 I’m currently **looking for entry-level software engineering roles, preferably front-end**.
+- 🔭 I’m currently **looking for entry-level software engineering roles**.
 
 - 🌱 Recently, I've been working with **React**, and I am really excited to dive into Material UI next.
 
@@ -41,11 +41,10 @@ My goal is to build cool things, work with great people, and learn as much as I 
 </details>
 
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>🗄️ Databases</b></summary>
 <br>
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </details>
   
