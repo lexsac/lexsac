@@ -1,22 +1,8 @@
-# Hi there 👋 
-
-I'm Lexsa, a full stack software engineer with a passion for building beautiful, functional digital products. As a former performance marketer, I spent years working alongside engineers to optimize our digital products for customer growth. I finally decided to pursue my years-long dream of learning how to code myself, and I am so glad I did.
-
-My goal is to build cool things, work with great people, and learn as much as I possibly can along the way. 
+- Hi, I'm Lexsa 👋 
+- 🌱 I just completed a fullstack coding bootcamp. 
+- 📫 Please feel free to reach out **lexsacampbell@gmail.com**
 
 ##
-
-<br>
-
-- 🔭 I’m currently **looking for entry-level software engineering roles**.
-
-- 🌱 Recently, I've been working with **React**, and I am really excited to dive into Material UI next.
-
-- 🤝 I’m looking for **new job opportunities that help me grow as an engineer**.
-
-- 🏄‍ Before engineering, I spent six years in customer acquisition growth for brands like Dropbox, Society6, Saatchi Art, and Verizon. 
-
-- 📫 Please feel free to reach out! **lexsacampbell@gmail.com**
 
 <br>
 
