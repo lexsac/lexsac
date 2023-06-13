@@ -1,6 +1,5 @@
 - Hi, I'm Lexsa 👋 
-- 🌱 I just completed a fullstack coding bootcamp. 
-- 📫 Please feel free to reach out **lexsacampbell@gmail.com**
+- 📫 You can reach me at **lexsacampbell@gmail.com**
 
 ##
 
@@ -24,6 +23,8 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0B5A37?style=for-the-badge&logo=Python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-CC2927?style=for-the-badge&logo=Flask)&nbsp;
 </details>
 
 <details open>
@@ -32,6 +33,7 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-319281?style=for-the-badge&logo=sql-alchemy&logoColor=white)&nbsp;
 </details>
   
 <details open>
